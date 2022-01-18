@@ -192,7 +192,7 @@ void defSom(void);
 number 0|[1-9][[:digit:]]*
 ```
 **Yacc**
-```yacc
+```lex
 %{
 
 GHashTable* table_var;
@@ -200,7 +200,7 @@ GHashTable* table_var;
 %}
 
 void yyerror(char *s) {
-     fprintf(stderr, "EError\n");
+     fprintf(stderr, "Error\n");
 }
 ```
 <!---
