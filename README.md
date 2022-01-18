@@ -172,6 +172,37 @@ body {
     padding: 30px;
 }
 ```
+
+### Lex & Yacc
+
+It's two good languages.
+
+**Lex**
+```lex
+/* Hello ! */
+%{
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <stdbool.h>
+void defSom(void);
+
+%}
+
+number 0|[1-9][[:digit:]]*
+```
+**Yacc**
+```yacc
+%{
+
+GHashTable* table_var;
+
+%}
+
+void yyerror(char *s) {
+     fprintf(stderr, "EError\n");
+}
+```
 <!---
 LAPCoder/LAPCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
