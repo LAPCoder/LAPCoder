@@ -156,6 +156,7 @@ for(i = 0; i < 10; i++)
 /* Simple style */
 .cool {
     color : #00ffff;
+}
 
 body {
     background-image: repeating-linear-gradient(45deg, rgba(255, 0, 0, 0.5) 30px,
@@ -168,6 +169,8 @@ body {
                           rgba(0, 255, 0, 1) 120px, rgba(0, 0, 255, 0.5) 150px,
                           rgba(75, 0, 130, 1) 180px, rgba(238, 130, 238, 1) 210px,
                           rgba(255, 0, 0, 1) 230px);
+}
+
 #main {
     padding: 30px;
 }
