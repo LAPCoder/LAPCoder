@@ -18,8 +18,10 @@ I know this language:
 It's ***my* language**.
 - [x] Print
 - [x] \(Partial) Create variable
+- [x] Delete variable
 - [ ] Create list
 - [x] For
+- [x] If
 - [x] Comments
 - [ ] While
 
@@ -33,7 +35,7 @@ It's ***my* language**.
 </> Simple programm
 
 var i = 'Hello!';
-afficher i; </> Print i
+print i; </> print 'Hello!'
 ```
 
 ### Python
