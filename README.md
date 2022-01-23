@@ -2,7 +2,7 @@
 
 ## Me
 
-- 👋 Hi, I’m [@LAPCoder] (https://github.com/LAPCoder/)
+- 👋 Hi, I’m [@LAPCoder](https://github.com/LAPCoder/)
 - ✅ It's my profile !
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
