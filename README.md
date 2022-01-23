@@ -94,7 +94,15 @@ It's a good language, but too smple.
 # Simple programm
 
 cd ~
-echo 'Hello!'
+echo 'Hello! I can count:\n'
+
+nbr=0
+while [ $nbr -le 10 ];
+do
+    echo $nbr
+    echo '\n'
+    (( nbr++ ))
+done
 ```
 
 ### Batch
