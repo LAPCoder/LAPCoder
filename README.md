@@ -1,5 +1,26 @@
 # LAPCoder
 
+## Summary
+
+- [LAPCoder](#lapcoder)
+  - [Me](#me)
+  - [Programming language](#programming-language)
+    * I know:
+    - [4U](#4u)
+    - [Python](#python)
+    - [C](#c)
+    - [C++](#c-1)
+    - [Bash](#bash)
+    - [Batch](#batch)
+    - [HTML](#html)
+    - [JS](#javascript)
+    - [CSS](#css)
+    - [Lex & Yacc](#lex--yacc)
+    * I learn:
+    - [Java](#java)
+    - [C#](#c-2)
+- End
+
 ## Me
 
 - 👋 Hi, I’m [**@LAPCoder**](https://github.com/LAPCoder/)
