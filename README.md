@@ -3,6 +3,7 @@
 ## Summary
 
 - [LAPCoder](#lapcoder)
+  - [Summary](#summary)
   - [Me](#me)
   - [Programming language](#programming-language)
     * I know:
