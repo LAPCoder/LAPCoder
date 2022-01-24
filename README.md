@@ -2,20 +2,24 @@
 
 ## Me
 
-- 👋 Hi, I’m [@LAPCoder](https://github.com/LAPCoder/)
+- 👋 Hi, I’m [**@LAPCoder**](https://github.com/LAPCoder/)
 - ✅ It's my profile !
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
 - 💖 It love coding
+- ♻️ I see and modify code
 
 ## Programming language
 
-I know this language:
+**I know those language:**
 
 ### 4U
 
 It's ***my* language**.
+You may not believe me, but I know this language.
+
+We can:
 - [x] Print
 - [x] \(Partial) Create variable
 - [x] Delete variable
@@ -208,12 +212,43 @@ number 0|[1-9][[:digit:]]*
 ```lex
 %{
 
-GHashTable* table_var;
+    GHashTable* table_var;
 
 %}
 
 void yyerror(char *s) {
-     fprintf(stderr, "Error\n");
+fprintf(stderr, "Error\n");
+}
+```
+
+**I learn those language:**
+
+### Java
+
+Yes, I don't really know this language.
+But I can make this:
+```java
+// Really simple programm
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello!");
+    }
+}
+// It's very long!
+```
+
+### C#
+
+I learn **C#**.
+I find it's like **Java**
+```cs
+// Really simple programm
+using System;
+
+public class Hello {
+    public static void Main(string[] args) {
+        Console.WriteLine("Hello!");
+    }
 }
 ```
 <!---
