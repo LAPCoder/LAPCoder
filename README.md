@@ -40,6 +40,7 @@
 
 It's ***my* language**.
 You may not believe me, but I know this language.
+Check [here](https://github.com/LAPCoder/4U-Programming-language) for more reseignements.
 
 We can:
 - [x] Print
