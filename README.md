@@ -50,7 +50,7 @@ We can:
 - [x] For
 - [x] If
 - [x] Comments
-- [ ] While
+- [x] While
 
 ```4U
 </ I am a comment
