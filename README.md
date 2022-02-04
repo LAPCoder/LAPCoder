@@ -1,6 +1,11 @@
 # LAPCoder
 
-[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&title_color=43bee9)](https://github.com/anuraghazra/github-readme-stats)
+## My stats
+[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 4U Repo stats
+[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Summary
 
