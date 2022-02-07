@@ -3,7 +3,10 @@
 ## My stats
 
 [![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&exclude_repo=JS.Terrain.LAPCoder.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+A repo is exclude in the count (JS repo).
+
 [![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 4U Repo stats
