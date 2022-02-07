@@ -13,6 +13,8 @@
 ## Summary
 
 - [LAPCoder](#lapcoder)
+  - [My stats](#my-stats)
+  - [4U stats](#4u-repo-stats)
   - [Summary](#summary)
   - [Me](#me)
   - [Programming language](#programming-language)
@@ -27,6 +29,7 @@
     - [JS](#javascript)
     - [CSS](#css)
     - [Lex & Yacc](#lex--yacc)
+    - [OpenSCAD](#openscad)
     * I learn:
     - [Java](#java)
     - [C#](#c-2)
@@ -69,7 +72,7 @@ We can:
  It's not finished.
 />
 </> I am a comment
-</> Simple programm
+</> Simple program
 
 var i = 'Hello!';
 print i; </> print 'Hello!'
@@ -80,7 +83,7 @@ print i; </> print 'Hello!'
 I like **Python**.
 
 ```py
-# Simple programm
+# Simple program
 
 print('Hello! I can count:\n')
 for i in range(10):
@@ -92,7 +95,7 @@ for i in range(10):
 It's my first language.
 
 ```C
-// Simple programm
+// Simple program
 
 #include <stdio.h>
 
@@ -110,7 +113,7 @@ int main(void)
 It's like the **C**.
 
 ```C++
-// Simple programm
+// Simple program
 
 #include<iostream>
 
@@ -128,7 +131,7 @@ int main()
 It's a good language, but too smple.
 
 ```bash
-# Simple programm
+# Simple program
 
 cd ~
 echo 'Hello! I can count:\n'
@@ -147,7 +150,7 @@ done
 It's like the **Bash**
 
 ```batch
-:: Simple programm
+:: Simple program
 
 color 2
 echo 'Hello!'
@@ -186,7 +189,7 @@ It's a really good language.
 I like **JS**.
 
 ```javascript
-// Simple programm
+// Simple program
 
 let i = 0;
 alert('Hello!')
@@ -254,6 +257,19 @@ fprintf(stderr, "Error\n");
 }
 ```
 
+### Openscad
+
+I like [OpenSCAD](https://openscad.org/).
+```openscad
+// Simple program
+/*
+Please animate the project.
+*/
+rotate([$t*360, $t*360, $t*360]) cube(10, true);
+translate([20, 0, 0]) rotate([0, 90, 0]) cylinder(d1=5, d2=10, h=20, $fn=64);
+translate([-20, 0, 0]) sphere(10, $fn=64);
+```
+
 **I learn those language:**
 
 ### Java
@@ -261,7 +277,7 @@ fprintf(stderr, "Error\n");
 Yes, I don't really know this language.
 But I can make this:
 ```java
-// Really simple programm
+// Really simple program
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello!");
@@ -275,7 +291,7 @@ public class Hello {
 I learn **C#**.
 I find it's like **Java**
 ```cs
-// Really simple programm
+// Really simple program
 using System;
 
 public class Hello {
