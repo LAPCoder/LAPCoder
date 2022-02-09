@@ -13,7 +13,7 @@ A repo is exclude in the count (JS repo).
 
 [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Summary
+<!--## Summary
 
 - [LAPCoder](#lapcoder)
   - [My stats](#my-stats)
@@ -36,7 +36,7 @@ A repo is exclude in the count (JS repo).
     * I learn:
     - [Java](#java)
     - [C#](#c-2)
-- End
+- End-->
 
 ## Me
 
@@ -57,7 +57,7 @@ A repo is exclude in the count (JS repo).
 It's ***my* language**.
 You may not believe me, but I know this language.
 Check [here](https://github.com/LAPCoder/4U-Programming-language) for more reseignements.
-
+<!--
 We can:
 - [x] Print
 - [x] \(Partial) Create variable
@@ -66,7 +66,7 @@ We can:
 - [x] For
 - [x] If
 - [x] Comments
-- [x] While
+- [x] While-->
 
 ```4U
 </ I am a comment
