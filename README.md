@@ -40,13 +40,16 @@ A repo is exclude in the count (JS repo).
 
 ## Me
 
-- 👋 Hi, I’m [**@LAPCoder**](https://github.com/LAPCoder/)
+- 👋 Hi, I’m [**@LAPCoder**](https://github.com/LAPCoder/).
 - ✅ It's my profile !
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 💖 It love coding
-- ♻️ I see and modify code
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning code.
+- 💞️ I’m looking to collaborate on code.
+- 💖 It love coding.
+- ♻️ I see and modify code.
+- 🍗 I like to eat.
+- 📖 I like to read.
+- ⌨ I like to code.
 
 ## Programming language
 
@@ -95,7 +98,7 @@ for i in range(10):
 
 ### C
 
-It's my first language.
+It' a really good language, for everything.
 
 ```C
 // Simple program
@@ -122,7 +125,7 @@ It's like the **C**.
 
 int main()
 {
-    std::cout << "Hello! I can count:\n";
+    std::cout << "Hello! I can count:" << std::endl;
     for(int i = 0; i < 10; i++) {
         std::cout << i << std::endl;
     }
@@ -131,7 +134,7 @@ int main()
 
 ### Bash
 
-It's a good language, but too smple.
+It's a good language, and simple.
 
 ```bash
 # Simple program
@@ -150,7 +153,7 @@ done
 
 ### Batch
 
-It's like the **Bash**
+It's like the **Bash**.
 
 ```batch
 :: Simple program
@@ -241,13 +244,15 @@ It's two good languages.
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
-void defSom(void);
+void main(void);
 
 %}
 
 number 0|[1-9][[:digit:]]*
 ```
+
 **Yacc**
+
 ```lex
 %{
 
@@ -255,14 +260,15 @@ number 0|[1-9][[:digit:]]*
 
 %}
 
-void yyerror(char *s) {
-fprintf(stderr, "Error\n");
+void yyerror(void) {
+fprintf(file, "Ok!\n");
 }
 ```
 
 ### Openscad
 
 I like [OpenSCAD](https://openscad.org/).
+
 ```openscad
 // Simple program
 /*
@@ -279,6 +285,7 @@ translate([-20, 0, 0]) sphere(10, $fn=64);
 
 Yes, I don't really know this language.
 But I can make this:
+
 ```java
 // Really simple program
 public class Hello {
@@ -292,7 +299,8 @@ public class Hello {
 ### C#
 
 I learn **C#**.
-I find it's like **Java**
+I find it's like **Java**.
+
 ```cs
 // Really simple program
 using System;
@@ -302,6 +310,7 @@ public class Hello {
         Console.WriteLine("Hello!");
     }
 }
+// It's very long!
 ```
 <!---
 LAPCoder/LAPCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
