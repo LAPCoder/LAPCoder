@@ -80,8 +80,8 @@ We can:
 </> I am a comment
 </> Simple program
 
-var i = 'Hello!';
-print i; </> print 'Hello!'
+var t_i = 'Hello!';
+print t_i; </> print 'Hello!'
 ```
 
 ### Python
