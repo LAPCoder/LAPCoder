@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 -->
 
 - ✅ It's my profile !
-- 🔭 I’m currently working on 4U (language), 4EUC (code editor), chatbox, JS game, personals projects...
+- 🔭 I’m currently working on 4U (language), 2EUC (code editor), chatbox, JS game, personals projects...
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning code.
 - 👯 I’m looking to collaborate on 4U.
 - 🤔 I’m looking for help with 4U.
-- 💬 Ask me about 4U and 4EUC.
+- 💬 Ask me about 4U and 2EUC.
 - ⚡ Fun fact: code, code and code.
 - 💖 It love coding.
 - ♻️ I see and modify code.
