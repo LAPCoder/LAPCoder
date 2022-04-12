@@ -68,7 +68,7 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
     |__|   \______/   | |___  /  _  \ | \ \ | | |_]¨; | \_/ | /  _  \ | |_]¨; |  ̅_̅_]
                       |_____| |_| |_| |_|\__| \_____/ \_____/ |_| |_| \_____/ |__͞_͞_͞_]
 ```
-### I now those language
+### I know those language
 
 - 4U
 It's ***my* language**.
