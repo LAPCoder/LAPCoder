@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 
 Exclude ThreeJS lib.
 
-<!--&exclude_repo=JS.Terrain.LAPCoder.github.io
-A repo is exclude in the count (JS repo).
--->
-[![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 4U Repo
 
@@ -86,7 +83,8 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
 - OpenSCAD
 - Arduino
 
-### I learn those language:
+### I learn those language
+
 - Java
 - C#
 - TypeScript
