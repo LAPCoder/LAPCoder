@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 Exclude ThreeJS lib.
 
 [![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![Skyline](generated/metrics.plugin.skyline.svg)
 
 ## 4U Repo
 
