@@ -1,6 +1,11 @@
-document.write("<DOCTYPE html>\n<html><body><h1>GitHub users:</h1>");
-for(i=1; i<993/*50000*/; i++)
+// If you want to see all uers profile images, run this on your browser's console
+
+var bodyT = "<body>\n<h1>GitHub users:</h1>\n";
+for(i = 1; i < 99/*350000*/; i++) // decomment '350000', if you want (to crash your PC ;) ).
 {
-	document.write("<img src=\"https://avatars.githubusercontent.com/u/", i, "\" style=\"height: 80px;\"></a>");
+	bodyT += '<img src="https://avatars.githubusercontent.com/u/';
+	bodyT += i;
+	bodyT +='" style="height: 80px;" />\n';
 }
-document.write("</body></html>")
+bodyT += "</body>";
+document.body.outerHTML = bodyT;

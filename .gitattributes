@@ -1,3 +1,4 @@
 *           linguist-detectable=true
 *           linguist-documentation=false
 generated/* linguist-documentation=true
+LICENSE     linguist-documentation=true
