@@ -1,3 +1,5 @@
+<!-- 4U Logo -->
+
 <svg width="720" height="830" xmlns="http://www.w3.org/2000/svg" version="1.1">
 	<defs>
 		<clipPath id="qagthnTPBtta">
@@ -5,10 +7,10 @@
 		</clipPath>
 	</defs>
 	<g>
-		<title>Layer 1</title>
+		<title>4U</title>
 		<g transform="translate(-1) scale(1)" clip-path="url(#qagthnTPBtta)" id="svg_2">
 			<g id="svg_3">
-				<!-- Other -->
+				<!-- Other: transparent -->
 
 				<path fill="none" stroke="rgb(150,0,150)" paint-order="fill stroke markers" d="m359.22713,765.40771l-50.93527,29.40749" stroke-opacity="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="10" id="svg_28"/>
 				<path fill="none" stroke="rgb(0,255,255)" paint-order="fill stroke markers" d="m359.22713,706.59273l-101.87054,58.81498" stroke-opacity="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="10" id="svg_29"/>
@@ -62,7 +64,8 @@
 				<path fill="none" stroke="rgb(150,0,150)" paint-order="fill stroke markers" d="m359.22713,765.40771l356.54686,-205.85243" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="10" id="svg_26"/>
 				<path fill="none" stroke="rgb(0,255,100)" paint-order="fill stroke markers" d="m715.77399,618.37026l-356.54686,205.85243" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="10" id="svg_27"/>
 			
-				<!-- Of the 1st group of main -->
+				<!-- Of the 1st group of main.
+					It's must stay here. -->
 
 				<path fill="none" stroke="rgb(0,255,100)" paint-order="fill stroke markers" d="m359.22713,824.22269l0,-411.70485" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="10" id="svg_10"/>
 			</g>

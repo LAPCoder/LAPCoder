@@ -1,16 +1,17 @@
 ### Hi there 👋
 
+<!--
+Hey!
+You see the code?
+It's beautiful?
+-->
+
 I am...
 
 # LAPCoder
 
-<!--
-**LAPCoder/LAPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
 - ✅ It's my profile !
-- 🔭 I’m currently working on 4U (language), 2EUC (code editor), chatbox, MyBall game, personals projects...
+- 🔭 I’m currently working on [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), chatbox, MyBall game, personals projects...
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning code.
 - 👯 I’m looking to collaborate on 4U.
@@ -23,15 +24,17 @@ Here are some ideas to get you started:
 - 📖 I like to read.
 - ⌨ I like to code.
 
+## My website
+
+If you want to see my website, [you can go here](https://lapcoder.github.io).
 
 ## My stats
 
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "Generated with Platane/snk")
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only "Generated with Platane/snk")
+
 [![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Exclude ThreeJS lib.
 
 [![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Skyline](generated/metrics.plugin.skyline.svg)
@@ -63,7 +66,7 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
 [<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OpenSCAD-logo.png/640px-OpenSCAD-logo.png" alt="OpenSCAD" height="50" />](https://en.wikipedia.org/wiki/OpenSCAD "OpenSCAD")
 [<img style="margin: 10px" src="./4U logo.svg" alt="4U" height="50" />](https://github.com/LAPCoder/4U-Programming-language "4U")
 
-<!--```
+<!--```text
                        _____   _____   _____   _____    ___    _   _   _   _   _____   _   _   _____ 
     ____   _      _   |  .  \ |  .  \ /  _  \ /  ___\  / ^ \  | \_/ | | \_/ | |_   _| |  \| | /  ___\
    / _  | | |    | |  |  ___/ |  _  / | |_| | | |_]¨; /  _  \ | \_/ | | \_/ |  _| |_  | \ \ | | |_]¨;
@@ -72,6 +75,14 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
 /___    __  \____/ /  | |      / ^ \  |  \| | /  ___\ | | | |  / ^ \  /  ___\ |  ---'
     |__|   \______/   | |___  /  _  \ | \ \ | | |_]¨; | \_/ | /  _  \ | |_]¨; |  ̅_̅_]
                       |_____| |_| |_| |_|\__| \_____/ \_____/ |_| |_| \_____/ |__͞_͞_͞_]
+
+   ________
+  /  ____  \
+ /  / __ \  \
+/  / /  \_\  \
+\  \ \__/¯/  /
+ \  \____/  /
+  \________/
 ```-->
 
 ### I know those language
@@ -86,10 +97,11 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
 - JavaScript
 - CSS
 - SASS
-- Lex 
+- Lex
 - Yacc
 - OpenSCAD
 - Arduino
+- *I forgot something...*
 
 ### I learn those language
 
@@ -98,3 +110,8 @@ The [4U language official website](https://lapcoder.github.io/4U-Programming-lan
 - TypeScript
 - PHP
 - MySQL
+
+<!--
+**LAPCoder/LAPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
