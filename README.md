@@ -33,15 +33,15 @@ If you want to see my website, [you can go here](https://lapcoder.github.io).
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "Generated with Platane/snk")
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only "Generated with Platane/snk")
 
-[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Skyline](generated/metrics.plugin.skyline.svg)
 
 ## 4U Repo
 
-[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
+[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
 
 The [4U language official website](https://lapcoder.github.io/4U-Programming-language/).
 
