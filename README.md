@@ -1,3 +1,5 @@
+<p style="text-align: center;">
+
 ### Hi there 👋
 
 <!--
@@ -10,15 +12,16 @@ I am...
 
 # ![LAPCoder](logo.gif)
 
-- ✅ It's my profile !
-- 🔭 I’m currently working on [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), chatbox, MyBall game, personals projects...
+</p>
+
+- ✅ It's my profile!
+- 🔭 I’m currently working on [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), MyBall game, personals projects...
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning code.
+- 🌱 I’m currently learning some [languages](#i-learn-those-language).
 - 👯 I’m looking to collaborate on 4U.
-- 🤔 I’m looking for help with 4U.
-- 💬 Ask me about 4U and 2EUC.
+- 🤔 I’m looking for help with 4U.<!--- 💬 Ask me about 4U and 2EUC.-->
 - ⚡ Fun fact: code, code and code.
-- 💖 It love coding.
+- 💖 I love coding.
 - ♻️ I see and modify code.
 - 🍗 I like to eat.
 - 📖 I like to read.
@@ -37,7 +40,8 @@ If you want to see my website, [you can go here](https://lapcoder.github.io).
 [![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-![Skyline](generated/metrics.plugin.skyline.svg)
+
+[![Skyline](generated/metrics.plugin.skyline.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)
 
 ## 4U Repo
 
