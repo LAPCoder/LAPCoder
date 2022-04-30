@@ -1,5 +1,3 @@
-<p style="text-align: center;">
-
 ### Hi there 👋
 
 <!--
@@ -10,11 +8,9 @@ It's beautiful?
 
 I am...
 
-# ![LAPCoder](logo.gif)
+# ![LAPCoder](logo.gif "LAPCoder")
 
-</p>
-
-- ✅ It's my profile!
+- ✅ It’s my profile!
 - 🔭 I’m currently working on [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), MyBall game, personals projects...
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning some [languages](#i-learn-those-language).
