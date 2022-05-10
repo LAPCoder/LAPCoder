@@ -42,6 +42,7 @@ If you want to see my website, [you can go here](https://lapcoder.github.io).
 ## 4U Repo
 
 [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
+[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo")
 
 The [4U language official website](https://lapcoder.github.io/4U-Programming-language/).
 
