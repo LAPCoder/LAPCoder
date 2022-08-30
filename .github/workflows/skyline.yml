@@ -1,9 +1,9 @@
 name: GitHub Skyline
 
 on:
-  # run automatically every 12 hours
+  # run automatically every days
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 3 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
