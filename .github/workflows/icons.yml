@@ -1,0 +1,30 @@
+name: GitHub Skyline
+
+on:
+  # run automatically every days
+  schedule:
+    - cron: "0 3 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - name: Icons
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.topics.icons.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_topics: yes
+        plugin_topics_limit: 0
+        plugin_topics_mode: icons
