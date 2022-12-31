@@ -1,34 +1,28 @@
-### Hi there 👋
-
 <!--
 Hey!
 You see the code?
 It's beautiful?
 -->
 
+<p align="center">
+<h3> Hi there 👋 </h3>
+
 I am...
 
-# ![LAPCoder](logo.gif "LAPCoder")
+<a href="https://lapcoder.github.io"><img src="logo.gif" /></a>
+</p>
 
 - ✅ It’s my profile!
 - 🔭 I’m currently working on SnabbGET, [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), MyBall game, personals projects...
-- 👀 I’m interested in code.
 - 🌱 I’m currently learning some [languages](#i-learn-those-language).
-- 👯 I’m looking to collaborate on 4U.
-- 🤔 I’m (we are...) looking for help with SnabbGET.<!--- 💬 Ask me about 4U and 2EUC.-->
-- ⚡ Fun fact: code, code and code.
-- 💖 I love coding.
-- ♻️ I see and modify code.
-- 🍗 I like to eat.
-- 📖 I like to read.
-- ⌨ I like to code.
-- 😕 I don’t always comment my code...
+- 👯 I’m looking to collaborate on SnabbGET. 🤔 I’m (we are...) looking for help with SnabbGET.<!--- 💬 Ask me about 4U and 2EUC. - ⚡ Fun fact: code, code and code.-->
+- 💖 I love coding. ♻️ I see and modify code.
+- 🍗 I like to eat. 📖 I like to read. ⌨ I like to code.
+- 😕 But I don’t always comment my code...
 
-## My website
+## [My website](https://lapcoder.github.io</h2>)
 
-[See my website!](https://lapcoder.github.io)
-
-## My stats
+<details><summary><h2>My stats</h2></summary>
 
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "Generated with Platane/snk")
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only "Generated with Platane/snk")
@@ -40,15 +34,17 @@ I am...
 
 [![Skyline](generated/metrics.plugin.skyline.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)
 
-## 4U Repo
+</details>
 
-[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
-[![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo")
+| <h2> SnabbGET </h2> | <h2> 4U Repo </h2> |
+| :------------------ | :----------------- |
+| [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET&show_owner=true&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
+|  [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET.github.io&show_owner=true&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") |
+| The [SnabbGET website](https://SnabbGET.github.io/). | The [4U language website](https://lapcoder.github.io/4U-Programming-language/). |
 
-The [4U language website](https://lapcoder.github.io/4U-Programming-language/).
+## Programming languages & tools
 
-## Programming languages
-
+<!--
 ### I know those language
 
 [<img style="margin: 10px" src="./4U logo.svg" alt="4U" height="50" />](https://github.com/LAPCoder/4U-Programming-language "4U")
@@ -78,7 +74,9 @@ The [4U language website](https://lapcoder.github.io/4U-Programming-language/).
 [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />](https://en.wikipedia.org/wiki/MySQL "MySQL")
 [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />](https://en.wikipedia.org/wiki/R_(programming_language) "R")
 [<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />](https://en.wikipedia.org/wiki/Java_(programming_language) "Java")
-[<img style="margin: 10px" src="https://i.imgur.com/tuFExZl.png" alt="Haskell" height="50" />](https://en.wikipedia.org/wiki/Haskell_(programming_language) "Haskell")
+[<img style="margin: 10px" src="https://i.imgur.com/tuFExZl.png" alt="Haskell" height="50" />](https://en.wikipedia.org/wiki/Haskell_(programming_language) "Haskell")-->
+
+![wordcloud](https://user-images.githubusercontent.com/97749743/210137955-5c3d221c-46af-4b53-b84f-75753ce56a98.png)
 
 <!--
 **LAPCoder/LAPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
