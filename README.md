@@ -4,13 +4,15 @@ You see the code?
 It's beautiful?
 -->
 
+<h3 align="center"> Hi there 👋 </h3>
 <p align="center">
-<h3> Hi there 👋 </h3>
-
-I am...
-
-<a href="https://lapcoder.github.io"><img src="logo.gif" /></a>
+  I am...
 </p>
+<h1 align="center">
+  <a href="https://lapcoder.github.io">
+    <img src="https://github.com/LAPCoder/LAPCoder/blob/main/logo.gif" alt="LAPCoder">
+  </a>
+</h1>
 
 - ✅ It’s my profile!
 - 🔭 I’m currently working on SnabbGET, [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), MyBall game, personals projects...
