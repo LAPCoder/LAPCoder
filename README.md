@@ -29,10 +29,10 @@ It's beautiful?
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "Generated with Platane/snk")
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only "Generated with Platane/snk")
 
-[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
-[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&text_color=0050a0&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true&safdsaf=adsfsaf)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&theme=transparent&safdsaf=adsfsaf)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![LAPCoder's Trophy](https://github-profile-trophy.vercel.app/?username=LAPCoder&no-bg=true&no-frame=true&column=-1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Skyline](generated/metrics.plugin.skyline.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)
 
@@ -40,8 +40,8 @@ It's beautiful?
 
 | <h2> SnabbGET </h2> | <h2> 4U Repo </h2> |
 | :------------------ | :----------------- |
-| [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET&show_owner=true&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
-|  [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET.github.io&show_owner=true&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&text_color=0050a0&hide_border=true&bg_color=0000)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") |
+| [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET&show_owner=true&show_icons=true&theme=transparent&hide_border=true&safdsaf=adsfsaf)](https://github.com/SnabbGET/SnabbGET "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&theme=transparent&hide_border=true&safdsaf=adsfsaf)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
+|  [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET.github.io&show_owner=true&show_icons=true&hide_border=true&theme=transparent&safdsaf=adsfsaf)](https://github.com/SnabbGET/SnabbGET.github.io "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&theme=transparent&hide_border=true&safdsaf=adsfsaf)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") |
 | The [SnabbGET website](https://SnabbGET.github.io/). | The [4U language website](https://lapcoder.github.io/4U-Programming-language/). |
 
 ## Programming languages & tools
