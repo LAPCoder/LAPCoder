@@ -22,7 +22,7 @@ It's beautiful?
 - 🍗 I like to eat. 📖 I like to read. ⌨ I like to code.
 - 😕 But I don’t always comment my code...
 
-## [My website](https://lapcoder.github.io</h2>)
+## [My website](https://lapcoder.github.io)
 
 <details><summary><h2>My stats</h2></summary>
 
