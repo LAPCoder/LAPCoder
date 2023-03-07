@@ -19,6 +19,10 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Init
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
@@ -31,3 +35,16 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
+          output_action: none
+
+      - name: Commit
+        #uses: lowlighter/metrics@latest
+        run: |
+          set +e
+          git checkout metrics-renders
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          sudo mv /metrics_renders/* ./
+          git add --all
+          git commit -m "chore: push metrics"
+          git push
