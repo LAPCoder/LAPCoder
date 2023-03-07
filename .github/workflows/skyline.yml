@@ -22,6 +22,7 @@ jobs:
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
+          commits_authoring: LAPCoder, 97749743+LAPCoder@users.noreply.github.com
           user: LAPCoder
           filename: generated/metrics.plugin.skyline.svg
           token: NOT_NEEDED
