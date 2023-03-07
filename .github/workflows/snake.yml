@@ -34,5 +34,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: LAPCoder <97749743+LAPCoder@users.noreply.github.com>
+          author: LAPCoder <97749743+LAPCoder@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
