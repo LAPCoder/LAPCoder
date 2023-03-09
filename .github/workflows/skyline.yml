@@ -42,9 +42,9 @@ jobs:
         run: |
           set +e
           git checkout metrics-renders
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          sudo mv /metrics_renders/* ./
+          git config user.name LAPCoder
+          git config user.email 97749743+LAPCoder@users.noreply.github.com
+          sudo mv /metrics_renders/generated/metrics.plugin.skyline.svg /generated/metrics.plugin.skyline.svg
           git add --all
           git commit -m "chore: push metrics"
           git push
