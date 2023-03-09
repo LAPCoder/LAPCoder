@@ -35,17 +35,17 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
-          output_action: none
+          #output_action: none
 
-      - name: Commit
-        #uses: lowlighter/metrics@latest
-        run: |
-          set +e
-          git checkout metrics-renders
-          git config user.name LAPCoder
-          git config user.email 97749743+LAPCoder@users.noreply.github.com
-          ls
-          sudo mv metrics_renders/generated/metrics.plugin.skyline.svg generated/metrics.plugin.skyline.svg
-          git add --all
-          git commit -m "chore: push metrics"
-          git push
+      #- name: Commit
+      #  #uses: lowlighter/metrics@latest
+      #  run: |
+      #    set +e
+      #    git checkout metrics-renders
+     #     git config user.name LAPCoder
+     #git config user.email 97749743+LAPCoder@users.noreply.github.com
+     #     ls
+     #     sudo mv metrics_renders/generated/metrics.plugin.skyline.svg generated/metrics.plugin.skyline.svg
+     #     git add --all
+    #      git commit -m "chore: push metrics"
+   #       git push
