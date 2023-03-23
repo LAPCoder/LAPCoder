@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@{version}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        settings:
+          username: LAPCoder
+          commit_msg: Update recent activities
+          commit_name: LAPCoder
+          commit_email: 97749743+LAPCoder@users.noreply.github.com
