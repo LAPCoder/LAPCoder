@@ -88,6 +88,13 @@ It's beautiful?
 
 ![wordcloud](https://user-images.githubusercontent.com/97749743/210137955-5c3d221c-46af-4b53-b84f-75753ce56a98.png)
 
+
+## Recent activities
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 <!--
 **LAPCoder/LAPCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
