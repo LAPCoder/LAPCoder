@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    branches:
-    - main
+  #push:
+  #  branches:
+  #  - main
 
 jobs:
   generate:
@@ -28,7 +28,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           commits_authoring: LAPCoder, LAPCoder@users.noreply.github.com
-          committer_token: ${{ secrets.GITH_TOKEN }}
+          committer_token: ${{ secrets.CMIT_TOKEN }}
           committer_message: 'Update skyline'
           user: LAPCoder
           filename: generated/metrics.plugin.skyline.svg
