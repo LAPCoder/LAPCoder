@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    branches:
-    - main
+  #push:
+  #  branches:
+  #  - main
 
 jobs:
   generate:
@@ -22,6 +22,9 @@ jobs:
     - name: Icons
       uses: lowlighter/metrics@latest
       with:
+        commits_authoring: LAPCoder, LAPCoder@users.noreply.github.com
+        committer_token: ${{ secrets.WORKFLOW_TOKEN }}
+        committer_message: 'Update icons'
         filename: generated/metrics.plugin.topics.icons.svg
         token: NOT_NEEDED
         base: ""
