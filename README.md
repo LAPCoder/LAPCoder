@@ -54,6 +54,8 @@ It's beautiful?
 
 ## Programming languages & tools
 
+[![Topics starred](generated/metrics.plugin.topics.icons.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)
+
 <!--
 ### I know those language
 
