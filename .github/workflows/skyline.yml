@@ -28,11 +28,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           commits_authoring: LAPCoder, LAPCoder@users.noreply.github.com
-          committer_token: ${{ secrets.CMIT_TOKEN }}
+          committer_token: ${{ secrets.WORKFLOW_TOKEN }}
           committer_message: 'Update skyline'
           user: LAPCoder
           filename: generated/metrics.plugin.skyline.svg
-          token: ${{ secrets.GITH_TOKEN }}
+          token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
           plugin_skyline_frames: 60
