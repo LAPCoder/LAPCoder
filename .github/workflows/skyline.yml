@@ -23,34 +23,18 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Commit
-        run: |
-          git config user.name LAPCoder
-          git config user.email 97749743+LAPCoder@users.noreply.github.com
 
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
           commits_authoring: LAPCoder, LAPCoder@users.noreply.github.com
+          committer_token: ${{ secrets.GITH_TOKEN }}
+          committer_message: 'Update skyline'
           user: LAPCoder
           filename: generated/metrics.plugin.skyline.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITH_TOKEN }}
           base: ""
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
-          #output_action: none
-
-      #- name: Commit
-      #  #uses: lowlighter/metrics@latest
-      #  run: |
-      #    set +e
-      #    git checkout metrics-renders
-     #     git config user.name LAPCoder
-     #git config user.email 97749743+LAPCoder@users.noreply.github.com
-     #     ls
-     #     sudo mv metrics_renders/generated/metrics.plugin.skyline.svg generated/metrics.plugin.skyline.svg
-     #     git add --all
-    #      git commit -m "chore: push metrics"
-   #       git push
