@@ -98,11 +98,11 @@ It's beautiful?
 2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 4. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-5. ⬆️ Pushed 1 commit(s) to [LAPCoder/Code-of-life](https://github.com/LAPCoder/Code-of-life)<br>
+5. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 19th, 2023, 3:53:14 AM
+Last Updated: Thursday, July 20th, 2023, 3:13:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
