@@ -95,14 +95,14 @@ It's beautiful?
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-4. ⭐ Starred [nlohmann/json](https://github.com/nlohmann/json)<br>
-5. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+2. ❗️ Opened issue [#35](https://github.com/SnabbGET/SnabbGET/issues/35) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+3. ❗️ Opened issue [#34](https://github.com/SnabbGET/SnabbGET/issues/34) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+4. ✔️ Closed issue [#20](https://github.com/SnabbGET/SnabbGET/issues/20) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+5. 💬 Commented on [#20](https://github.com/SnabbGET/SnabbGET/issues/20#issuecomment-1657197548) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 30th, 2023, 3:12:52 AM
+Last Updated: Monday, July 31st, 2023, 3:13:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
