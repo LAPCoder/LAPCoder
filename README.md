@@ -94,15 +94,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#43](https://github.com/SnabbGET/SnabbGET/issues/43) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+1. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+2. ✔️ Closed issue [#40](https://github.com/SnabbGET/SnabbGET/issues/40) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
 3. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-4. ⭐ Starred [nolanlawson/fuite](https://github.com/nolanlawson/fuite)<br>
-5. 💬 Commented on [#8](https://github.com/SnabbGET/SnabbGET/issues/8#issuecomment-1673457170) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+4. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+5. ❗️ Opened issue [#43](https://github.com/SnabbGET/SnabbGET/issues/43) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 12th, 2023, 3:12:32 AM
+Last Updated: Sunday, August 13th, 2023, 3:12:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
