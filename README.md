@@ -40,11 +40,9 @@ It's beautiful?
 
 | <h2> SnabbGET </h2> | <h2> 4U Repo </h2> |
 | :-----------------: | :----------------: |
-| [![LAPCoder's Readme Card](https://user-images.githubusercontent.com/97749743/211604519-2e512431-8233-4408-8da0-8560d2cd0373.png)](https://github.com/SnabbGET/SnabbGET "Click to go on the repo") | [![LAPCoder's Readme Card](https://user-images.githubusercontent.com/97749743/211604542-8e422011-3dfd-4547-9472-5597c653acc8.png)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
-|  [![LAPCoder's Readme Card](https://user-images.githubusercontent.com/97749743/211605515-47815b15-e495-4302-92cf-90d133e97db8.png)](https://github.com/SnabbGET/SnabbGET.github.io "Click to go on the repo") | [![LAPCoder's Readme Card](https://user-images.githubusercontent.com/97749743/211605662-8bdd0870-a3f4-499b-bb1e-053d4373ec17.png)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") |
+| [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET&show_owner=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/SnabbGET/SnabbGET "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&theme=transparent&hide_border=true)](https://github.com/LAPCoder/4U-Programming-language "Click to go on the repo")<!--https://github.com/anuraghazra/github-readme-stats)-->
+|  [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET.github.io&show_owner=true&show_icons=true&hide_border=true&theme=transparent)](https://github.com/SnabbGET/SnabbGET.github.io "Click to go on the repo") | [![LAPCoder's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=2HOT4U&show_owner=false&show_icons=true&theme=transparent&hide_border=true)](https://github.com/LAPCoder/2HOT4U "Click to go on the repo") |
 | The [SnabbGET website](https://SnabbGET.github.io/). | The [4U language website](https://lapcoder.github.io/4U-Programming-language/). |
-
-*Those images are static (no update).*
 
 <!-- https://github-readme-stats.vercel.app/api/pin/?username=SnabbGET&repo=SnabbGET&show_owner=true&show_icons=true&theme=transparent&hide_border=true
      https://github-readme-stats.vercel.app/api/pin/?username=LAPCoder&repo=4U-Programming-language&show_owner=false&show_icons=true&theme=transparent&hide_border=true
