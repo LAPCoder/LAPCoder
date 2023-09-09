@@ -18,7 +18,7 @@ It's beautiful?
 - ✅ It’s my profile!
 - 🔭 I’m currently working on [SnabbGET](https://github.com/SnabbGET/SnabbGET), [4U](https://github.com/LAPCoder/4U-Programming-language) (language), 2EUC (code editor), MyBall game, personals projects...
 - 🌱 I’m currently learning some [languages](#programming-languages--tools).
-- 👯 I’m looking to collaborate on SnabbGET. 🤔 I’m (we are...) looking for help with SnabbGET.<!-- 💬 Ask me about 4U and 2EUC. - ⚡ Fun fact: code, code and code.-->
+- 👯 I’m looking to collaborate on SnabbGET. 🤔 I’m (we are...) looking for help with SnabbGET.<!-- 💬 Ask me about 4U and 2EUC. - ⚡ Fun fact: code, code and code.--
 - 💖 I love coding. ♻️ I see and modify code.
 - 🍗 I like to eat, 📖 read and ⌨ code.
 - 😕 But I don’t always comment my code...
