@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-2. ⬆️ Pushed 4 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-3. 🎉 Merged PR [#46](https://github.com/SnabbGET/SnabbGET/pull/46) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-4. 💪 Opened PR [#46](https://github.com/SnabbGET/SnabbGET/pull/46) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-5. ⭐ Starred [numworks/epsilon](https://github.com/numworks/epsilon)<br>
+1. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
+2. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+3. ⬆️ Pushed 4 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+4. 🎉 Merged PR [#46](https://github.com/SnabbGET/SnabbGET/pull/46) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+5. 💪 Opened PR [#46](https://github.com/SnabbGET/SnabbGET/pull/46) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 2nd, 2023, 3:13:24 AM
+Last Updated: Tuesday, October 3rd, 2023, 3:13:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
