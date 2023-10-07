@@ -34,10 +34,10 @@ It's beautiful?
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "Generated with Platane/snk")
 ![Contribution grid snake animation](https://raw.githubusercontent.com/LAPCoder/LAPCoder/output/github-contribution-grid-snake.svg#gh-light-mode-only "Generated with Platane/snk")
 
-[![LAPCoder's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true&tsdsfs=sdsf)](https://github.com/anuraghazra/github-readme-stats)
+[![LAPCoder's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LAPCoder&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&tsdsfs=sdsf)](https://github.com/anuraghazra/github-readme-stats)
 [![LAPCoder's Languages stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LAPCoder&langs_count=10&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&layout=compact&theme=transparent&tsdsfs=sdsf)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Skyline](generated/metrics.plugin.skyline.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)
+<!--[![Skyline](generated/metrics.plugin.skyline.svg)](https://github.com/LAPCoder#user-97749743-pinned-items-reorder-form)-->
 
 </details>
 
