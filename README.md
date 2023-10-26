@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swift502/Sketchbook](https://github.com/swift502/Sketchbook)<br>
-2. ⭐ Starred [xonsh/xonsh](https://github.com/xonsh/xonsh)<br>
-3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-4. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
-5. ⬆️ Pushed 1 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+1. ⭐ Starred [Adi-df/complex-numworks](https://github.com/Adi-df/complex-numworks)<br>
+2. ⭐ Starred [Tatone26/Numworks-python-games](https://github.com/Tatone26/Numworks-python-games)<br>
+3. ⭐ Starred [swift502/Sketchbook](https://github.com/swift502/Sketchbook)<br>
+4. ⭐ Starred [xonsh/xonsh](https://github.com/xonsh/xonsh)<br>
+5. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 25th, 2023, 3:13:31 AM
+Last Updated: Thursday, October 26th, 2023, 3:13:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
