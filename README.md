@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-2. ⬆️ Pushed 1 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
-3. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)<br>
-4. ⬆️ Pushed 2 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
-5. ⬆️ Pushed 1 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
+1. ⭐ Starred [Adi-df/game-of-life-numworks](https://github.com/Adi-df/game-of-life-numworks)<br>
+2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+3. ⬆️ Pushed 1 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
+4. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)<br>
+5. ⬆️ Pushed 2 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 24th, 2023, 3:14:10 AM
+Last Updated: Saturday, November 25th, 2023, 3:14:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
