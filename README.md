@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Adi-df/game-of-life-numworks](https://github.com/Adi-df/game-of-life-numworks)<br>
-2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-3. ⬆️ Pushed 1 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
-4. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)<br>
-5. ⬆️ Pushed 2 commit(s) to [LAPCoder/Microchip-Emulator](https://github.com/LAPCoder/Microchip-Emulator)<br>
+1. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+5. ⭐ Starred [Adi-df/game-of-life-numworks](https://github.com/Adi-df/game-of-life-numworks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 2nd, 2023, 3:13:53 AM
+Last Updated: Sunday, December 3rd, 2023, 3:13:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
