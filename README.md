@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-5. ⭐ Starred [Adi-df/game-of-life-numworks](https://github.com/Adi-df/game-of-life-numworks)<br>
+4. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder.github.io](https://github.com/LAPCoder/LAPCoder.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 5th, 2023, 3:14:42 AM
+Last Updated: Wednesday, December 6th, 2023, 3:14:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
