@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-2. 🎉 Merged PR [#49](https://github.com/SnabbGET/SnabbGET/pull/49) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
-3. ⬆️ Pushed 1 commit(s) to [LAPCoder/CPS-test](https://github.com/LAPCoder/CPS-test)<br>
+1. ⬆️ Pushed 1 commit(s) to [LAPCoder/CPS-test](https://github.com/LAPCoder/CPS-test)<br>
+2. ⬆️ Pushed 2 commit(s) to [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
+3. 🎉 Merged PR [#49](https://github.com/SnabbGET/SnabbGET/pull/49) in [SnabbGET/SnabbGET](https://github.com/SnabbGET/SnabbGET)<br>
 4. ⬆️ Pushed 1 commit(s) to [LAPCoder/CPS-test](https://github.com/LAPCoder/CPS-test)<br>
-5. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+5. ⬆️ Pushed 1 commit(s) to [LAPCoder/CPS-test](https://github.com/LAPCoder/CPS-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 15th, 2024, 3:18:18 AM
+Last Updated: Thursday, May 16th, 2024, 3:17:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
