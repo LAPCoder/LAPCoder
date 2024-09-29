@@ -64,15 +64,15 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)<br>
-2. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
-3. ⭐ Starred [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)<br>
-4. ⭐ Starred [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)<br>
-5. ⬆️ Pushed 1 commit(s) to [LAPCoder/WorldConquest](https://github.com/LAPCoder/WorldConquest)<br>
+1. ⭐ Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)<br>
+2. ⭐ Starred [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)<br>
+3. ⬆️ Pushed 1 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
+4. ⭐ Starred [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender)<br>
+5. ⭐ Starred [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 28th, 2024, 3:20:25 AM
+Last Updated: Sunday, September 29th, 2024, 3:25:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
