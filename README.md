@@ -68,11 +68,10 @@ It's beautiful?
 2. ⬆️ Pushed 2 commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 3. 🎉 Merged PR [#7](https://github.com/LAPCoder/LAPCoder/pull/7) in [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 4. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
-5. ⭐ Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 28th, 2024, 3:18:57 AM
+Last Updated: Sunday, December 29th, 2024, 3:25:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
