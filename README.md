@@ -64,11 +64,10 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tsumi7/labpbr_bsdf](https://github.com/tsumi7/labpbr_bsdf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 3:40:11 AM
+Last Updated: Tuesday, April 29th, 2025, 3:36:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
