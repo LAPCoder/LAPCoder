@@ -65,11 +65,10 @@ It's beautiful?
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver)<br>
-2. ⭐ Starred [mathpathconsole/mathpath](https://github.com/mathpathconsole/mathpath)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 17th, 2025, 3:53:56 AM
+Last Updated: Thursday, December 18th, 2025, 3:54:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
