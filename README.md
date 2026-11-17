@@ -64,13 +64,13 @@ It's beautiful?
 ## Recent activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Lyccoriis/Create-Loconautics](https://github.com/Lyccoriis/Create-Loconautics)<br>
+1. ⭐ Starred [Creators-of-Locomotion/Create-Loconautics](https://github.com/Creators-of-Locomotion/Create-Loconautics)<br>
 2. ⬆️ Pushed undefined commit(s) to [LAPCoder/LAPCoder](https://github.com/LAPCoder/LAPCoder)<br>
 3. ⭐ Starred [scarletnx/ScarletNX](https://github.com/scarletnx/ScarletNX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 16th, 2026, 10:42:10 AM
+Last Updated: Tuesday, November 17th, 2026, 11:30:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
